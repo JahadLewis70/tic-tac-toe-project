@@ -1,18 +1,42 @@
 # Tic Tac Toe (Java)
 
-This is a simple Tic Tac Toe game developed in Java.
+## ICSI/IECE 201 Class Project
 
-Features:
+Developed by: Jahad Lewis and Eduardo J
+
+
+
+## Description
+This project is a console-based Tic Tac Toe game developed in Java. It allows two players to take turns placing X and O on a 3x3 board while checking for wins, draws, and invalid inputs.
+
+
+
+## Features
 - Two-player mode (X and O)
-- Input validation
+- Input validation to prevent invalid or duplicate moves
 - Win and draw detection
-- Scoreboard tracking
+- Scoreboard tracking across multiple games
 
-How to Run:
+
+
+## Game Preview
+![Game Screenshot](CS Tic Tac Toe.png)
+
+
+
+## How to Run
 1. Compile the program
-2. Run ClassProject.java
-3. Follow on-screen instructions
+2. Run `ClassProject.java`
+3. Follow the on-screen instructions
 
-Author:
-Jahad Lewis
+
+
+## Technologies Used
+- Java
+- Console-based interface
+
+
+
+## Authors
+Jahad Lewis  
 Eduardo J
